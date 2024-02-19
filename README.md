@@ -1,16 +1,20 @@
-### Hi there 👋
+Опытный ИТ-специалист с 7-летним опытом, начинающий в сфере Data Scientist.
 
-<!--
-**KILLzver/KILLzver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Инструменты:
+Jupyter Notebook
 
-Here are some ideas to get you started:
+Базы данных:
+PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Операционные системы:
+Windows
+
+Наука о данных:
+Python, Pandas, Numpy, Matplotlib, Scikit-learn, TensorFlow, Keras и др.
+
+Специализации:
+  Дата-сайентист
+  Аналитик
+  BI-аналитик
+  аналитик данных
+  Бизнес-аналитик
