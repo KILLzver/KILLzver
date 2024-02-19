@@ -18,3 +18,4 @@ Python, Pandas, Numpy, Matplotlib, Scikit-learn, TensorFlow, Keras и др.
   BI-аналитик
   аналитик данных
   Бизнес-аналитик
+  Машинное обучение
